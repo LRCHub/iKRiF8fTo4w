@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "base_track": "恋泥棒。",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-03-26T00:47:37.119824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_恋泥棒。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_恋泥棒。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/03_恋泥棒。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/04_恋泥棒。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋泥棒",
+      "artist": "Country Girls",
+      "has_synced": true,
+      "path": "select/05_恋泥棒_Country_Girls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋泥棒。",
+      "artist": "ユイカ",
+      "has_synced": true,
+      "path": "select/06_恋泥棒。_ユイカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_恋泥棒。_『ユイカ』.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "恋泥棒。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/localdb_01_恋泥棒。_『ユイカ』.txt",
+      "repo_name": "BAxwEIrXGAQ"
+    }
+  ]
+}
